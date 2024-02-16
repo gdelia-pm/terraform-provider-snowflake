@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.86.1](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.86.0...v0.86.1) (2024-02-16)
+
+
+### 🐛 **Bug fixes:**
+
+* Fix few tests ([#2515](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2515)) ([a523a6b](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/a523a6b30f73165a2b51f7c88b8d6701ea19f0f9))
+* Fix query_results in unsafe_execute resource ([#2512](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2512)) ([94ca158](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/94ca158966785f4eb50d224a4231231f5aa8f24c)), closes [#2491](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2491)
+* Granting database roles ([#2511](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2511)) ([dc27d64](https://github.com/Snowflake-Labs/terraform-provider-snowflake/commit/dc27d644c15a0d2321d9f374f73a9df239c6a972)), closes [#2402](https://github.com/Snowflake-Labs/terraform-provider-snowflake/issues/2402)
+
 ## [0.86.0](https://github.com/Snowflake-Labs/terraform-provider-snowflake/compare/v0.85.0...v0.86.0) (2024-02-15)
 
 
